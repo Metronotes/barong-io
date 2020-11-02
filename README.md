@@ -1,8 +1,7 @@
 # Barong
 
 Barong is an authentication service for microservice architectures using JWT standard.
-
-It's focused on security and rich KyC features, in a matter of fact it's used in Openware [Crypto exchange software](https://www.openware.com) stack.
+It's focused on security and rich KyC features, in a matter of fact it's used in Openware [crypto exchange software](https://www.openware.com) stack.
 
 # Overview
 
