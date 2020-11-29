@@ -1,1 +1,5 @@
 theme: jekyll-theme-dinky
+title: Barong opensource
+description: |
+    Barong is an opensource authentication service for microservice architectures using JWT standard.
+    It handles the whole user management flow and you focus on your business.
